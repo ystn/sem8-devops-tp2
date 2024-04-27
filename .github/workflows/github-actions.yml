@@ -29,7 +29,7 @@ jobs:
 
       - name: Build Application
         run: |
-          python build.py
+          python calcul.py
 
   test:
     name: Test
